@@ -1,4 +1,4 @@
-package com.example.prueba;
+package com.example.GarciaJoaquin_Login;
 
 import org.junit.Test;
 
