@@ -1,4 +1,4 @@
-# Prueba
+#  GarciaJoaquin_Login
 First proyect of M7_M8
 
 This is a simple login interface.
